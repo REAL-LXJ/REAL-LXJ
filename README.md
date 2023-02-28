@@ -1,16 +1,15 @@
-### Hi there 👋
+**我的项目**
 
-<!--
-**REAL-LXJ/REAL-LXJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------
 
-Here are some ideas to get you started:
+**SPLVDIO**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+​	利用室内结构场景下的**点**、**线**、**消失点**几何特征和**RGBD**、**IMU**传感器实现的基于结构点线的RGBD视觉惯性里程计**SPLVDIO**，能够在室内长走廊、白墙等弱纹理和动态干扰等挑战性场景下保持系统鲁棒性的同时提高位姿估计的精度。同时通过对算法模块的优化，使其能够以**PLVDO**部署在**NX**平台上并实时运行。
+
+![Snipaste_2023-02-28_10-03-56](C:\Users\LXJ\Desktop\Snipaste_2023-02-28_10-03-56.png)
+
+- **基于IIR的IMU实时滤波模块**
+- **基于点线特征的轻量级前端**
+- **路标的分类及固定**
+
+​		
