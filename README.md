@@ -16,7 +16,7 @@
 
 #### IIR_IMU_Filter
 
-![image1](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/机器狗imu分析.png)
+![image1](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/四足机器人imu分析.png)
 
 
 
