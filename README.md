@@ -27,7 +27,7 @@
 
 [PLVDO_动态场景实验2_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1yA41167u3/?spm_id_from=333.999.0.0&vd_source=234694b5b771ca97335316572a2146ee)
 
-![image0](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/Snipaste_2023-02-28_10-03-56.png)
+![image0](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/系统框架.png)
 
 - **基于IIR的IMU实时滤波模块**
 - **基于点线特征的轻量级前端**
@@ -41,7 +41,7 @@
 
 [imu原始数据实时滤波_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1k84y1C7Ts/?spm_id_from=333.999.0.0&vd_source=234694b5b771ca97335316572a2146ee)
 
-![image1](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/机器狗imu分析.png)
+![image1](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/四足机器人imu分析.png)
 
 ------
 
