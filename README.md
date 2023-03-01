@@ -17,29 +17,21 @@
 
 ------
 
-#### **SPLVDIO**
+**SPLVDIO** [视频1](https://www.bilibili.com/video/BV1S3411S7j3/?spm_id_from=333.999.0.0&vd_source=234694b5b771ca97335316572a2146ee) [视频2](https://www.bilibili.com/video/BV1N34119752/?spm_id_from=333.999.0.0&vd_source=234694b5b771ca97335316572a2146ee) [视频3](https://www.bilibili.com/video/BV1yA41167u3/?spm_id_from=333.999.0.0&vd_source=234694b5b771ca97335316572a2146ee)
 
-利用室内结构场景下的**点**、**线**、**消失点**几何特征和**RGBD**、**IMU**传感器实现的基于结构点线的RGBD视觉惯性里程计**SPLVDIO**，能够在室内长走廊、白墙等弱纹理和动态干扰等挑战性场景下保持系统鲁棒性并提高位姿估计的精度。同时通过对算法模块的优化，使其能够以**PLVDO**部署在**NX**平台上并实时运行（蓝色部分为去掉的模块）。
-
-[SPLVDO_室内办公室场景3circle实验_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1S3411S7j3/?spm_id_from=333.999.0.0&vd_source=234694b5b771ca97335316572a2146ee)
-
-[PVDO-PLVDO-SPLVDO_室内办公室场景3circle实验_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1N34119752/?spm_id_from=333.999.0.0&vd_source=234694b5b771ca97335316572a2146ee)
-
-[PLVDO_动态场景实验2_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1yA41167u3/?spm_id_from=333.999.0.0&vd_source=234694b5b771ca97335316572a2146ee)
+利用室内结构场景下的**点**、**线**、**消失点**几何特征和**RGBD**、**IMU**传感器实现的基于结构点线的RGBD视觉惯性里程计**SPLVDIO**，能够在室内长走廊、白墙等弱纹理和动态干扰等挑战性场景下保持系统鲁棒性的同时提高位姿估计的精度。同时通过对算法模块的优化，使其能够以**PLVDO**部署在**NX**平台上并实时运行（蓝色部分为去掉的模块）。
 
 ![image0](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/系统框架.png)
 
-- **基于IIR的IMU实时滤波模块**
+- **基于IIR的IMU实时滤波**
 - **基于点线特征的轻量级前端**
 - **路标的分类及固定**
 
 ------
 
-#### IIR_IMU_Filter
+IIR_IMU_Filter [视频1](https://www.bilibili.com/video/BV1k84y1C7Ts/?spm_id_from=333.999.0.0&vd_source=234694b5b771ca97335316572a2146ee)
 
 基于**iir**实现的**IMU**实时滤波算法，能够过滤IMU原始数据特定频率的噪声。
-
-[imu原始数据实时滤波_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1k84y1C7Ts/?spm_id_from=333.999.0.0&vd_source=234694b5b771ca97335316572a2146ee)
 
 ![image1](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/四足机器人imu分析.png)
 
@@ -49,5 +41,7 @@
 
 ------
 
+#### Struct_VINS
 
+------
 
