@@ -41,3 +41,12 @@
 
 ------
 
+#### 能量机关识别
+
+![image2](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/能量机关识别.gif))
+
+------
+
+装甲板识别
+
+![image3](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/装甲板识别.gif))
