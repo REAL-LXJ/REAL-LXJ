@@ -45,8 +45,6 @@
 
 ![image2](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/能量机关识别.gif)
 
-![image3](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/蓝符.gif){:height="50%" width="50%"}![image4](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/橙符.gif){:height="50%" width="50%"}
-
 ------
 
 装甲板识别
