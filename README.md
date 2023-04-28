@@ -29,32 +29,34 @@
 
 基于**iir**实现**IMU**实时滤波算法，能够过滤IMU原始数据特定频率的噪声。
 
-![image1](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/四足机器人imu分析.png)
+![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/四足机器人imu分析.png)
 
 ------
 
 ### IPM_SLAM
 
+![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/东软IPM_SLAM.gif)
+
 ------
 
 ### Low-drift Visual Inertial Odometry for Underground Parking
 
-![image2](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/东软地下停车场.gif)
+![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/东软地下停车场.gif)
 
 ------
 
 ### 能量机关识别
 
-![image3](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/能量机关识别.gif)
+![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/能量机关识别.gif)
 
 ------
 
 ### 装甲板识别
 
-![image4](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/装甲板识别.gif)
+![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/装甲板识别.gif)
 
 ------
 
 ### 能量机关
 
-![image4](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/能量机关.gif)
+![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/能量机关.gif)
