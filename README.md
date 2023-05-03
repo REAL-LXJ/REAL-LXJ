@@ -33,7 +33,9 @@
 
 ------
 
-### IPM_SLAM
+### 环视相机地面语义SLAM
+
+![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/IPM_SLAM.png)
 
 ![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/东软IPM_SLAM.gif)
 
