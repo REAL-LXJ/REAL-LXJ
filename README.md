@@ -4,7 +4,7 @@
 
 我是罗行健，东北大学机器人科学与工程学院**环境感知与自主导航实验室**硕士二年级，研究方向为**视觉SLAM**、**VIO**、**多传感器融合**。
 
-本科就读于大连交通大学机械工程学院机械工程+软件工程专业，**TOE创新实验室成员**，负责能量机关的制作、视觉及步兵机器人的控制。
+本科就读于大连交通大学机械工程学院机械工程+软件工程专业，**TOE创新实验室成员**，负责能量机关的制作、视觉及步兵机器人的嵌入式控制。
 
 |                     竞赛名称                     |             荣誉             |
 | :----------------------------------------------: | :--------------------------: |
@@ -47,6 +47,14 @@
 
 ------
 
+### 城市场景多传感器融合车辆位姿估计
+
+融合视觉、IMU和轮速计实现复杂城市场景下低漂移的车辆位姿估计，并利用GPS的定位信息松耦合VIWO消除累积漂移。
+
+![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/VIWO.gif)
+
+------
+
 ### Low-drift Visual Inertial Odometry for Underground Parking
 
 ![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/东软地下停车场.gif)
@@ -61,12 +69,17 @@
 
 ------
 
+### 能量机关实物
+
+![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/能量机关.gif)
+
+------
+
 ### 装甲板识别
 
 ![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/装甲板识别.gif)
 
 ------
 
-### 能量机关
+### 步兵机器人嵌入式控制
 
-![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/能量机关.gif)
