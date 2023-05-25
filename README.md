@@ -1,4 +1,8 @@
-## 自我介绍
+## 自我介绍 
+
+------
+
+欢迎来到我的主页！<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ------
 
