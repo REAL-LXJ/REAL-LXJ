@@ -4,6 +4,8 @@
 
 欢迎来到我的主页！<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/中央台.gif)
+
 ------
 
 我是罗行健，东北大学机器人科学与工程学院**环境感知与自主导航实验室**硕士二年级，研究方向为**视觉SLAM**、**VIO**、**多传感器融合**。
