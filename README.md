@@ -55,7 +55,7 @@
 
 ### 城市场景多传感器融合车辆位姿估计
 
-融合视觉、IMU和轮速计实现复杂城市场景下低漂移的车辆位姿估计，并利用GPS的定位信息松耦合VIWO消除累积漂移。
+融合视觉、IMU和轮速计实现复杂城市场景下低漂移的车辆位姿估计，并利用GPS的定位信息松耦合VIWO消除长期累积漂移。
 
 ![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/VIWO.gif)
 
