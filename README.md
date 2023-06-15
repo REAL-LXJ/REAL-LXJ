@@ -110,3 +110,4 @@
 
 ### 步兵机器人嵌入式控制
 
+![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/机器人.gif)
