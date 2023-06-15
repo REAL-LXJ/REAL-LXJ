@@ -92,7 +92,7 @@
 
 ![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/能量机关.png)
 
-![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/能量机关识别1.gif)
+![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/能量机关识别.gif)
 
 ------
 
