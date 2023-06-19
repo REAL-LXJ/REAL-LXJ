@@ -26,7 +26,7 @@
 | :----------------------------------------------------------- |
 | **RA-L**一作在投，提出一个新颖的紧耦合视觉-深度-惯性里程计方法, 充分利用结构环境中精心筛选过的准确稳定的多模态路标来提高地面自主移动机器人在室内复杂结构场景下位姿估计的精度和鲁棒性，并显著降低后端BA耗时。 |
 
-| 《Structural Lines aided Monocular VIWO with Online IMU-Wheel Extrinsic Optimization on Manifold S2 Manifold》 |
+| 《Structural Lines aided Monocular Visual-Inertial-Wheel Odometry with Online IMU-Wheel Extrinsic Optimization on S2 Manifold》 |
 | :----------------------------------------------------------- |
 | **TIV** **二作一审** **ABB**，针对复杂城市场景车辆位姿估计任务的鲁棒性问题，采用结构线辅助VIWO，并在S2流形上进行imu-wheel外参在线优化的方法，有效解决了城市场景地形变化和光照强度快速变化对VIWO造成的影响。 |
 
