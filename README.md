@@ -24,11 +24,11 @@
 
 | 《**AML-VDIO**:Tightly-Coupled Visual-Depth-Inertial Odometry With Accuracy Multi-Modal Landmarks In Structural Environment》 |
 | :----------------------------------------------------------- |
-| **RA-L**一作在投，提出一个新颖的紧耦合视觉-深度-惯性里程计方法, 充分利用结构环境中精心筛选过的准确稳定的多模态路标来提高地面自主移动机器人在室内复杂结构场景下位姿估计的精度和鲁棒性，并显著降低后端BA耗时。 |
+| **RA-L**一作在投，针对多特征slam的耗时和复杂室内环境下的位姿估计问题，提出一个新颖的视觉-深度-惯性里程计方法，采用基于交叉重投影的空间一致性验证和深度范围限制对3D路标进行分类，进一步在BA时fix准确路标，同时结合线特征的几何约束和运动约束去除动态线特征，在OpenLROIS数据集和现实场景取得了竞争性的精度和鲁棒性。 |
 
 | 《Structural Lines aided Monocular Visual-Inertial-Wheel Odometry with Online IMU-Wheel Extrinsic Optimization on S2 Manifold》 |
 | :----------------------------------------------------------- |
-| **TIV** **二作一审** **ABB**，针对复杂城市场景车辆位姿估计任务的鲁棒性问题，采用结构线辅助VIWO，并在S2流形上进行imu-wheel外参在线优化的方法，有效解决了城市场景地形变化和光照强度快速变化对VIWO造成的影响。 |
+| **TIV** **二作一审** **ABB**，针对复杂城市场景车辆位姿估计任务的鲁棒性问题，采用结构线辅助VIWO，并在S2流形上进行imu-wheel外参在线优化的方法，有效解决了城市场景地形变化和光照强度快速变化对VIWO造成的影响，在KAIST Complex Urban Dataset 数据集和现实场景表现出较好的鲁棒性和精度。 |
 
 ------
 
@@ -42,7 +42,7 @@
 - 室内挑战性场景鲁棒性提高且 APE 定位误差减少 **40%**，相同约束下后端 BA 提速 **68%**。
 
 
-![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/SPLVDIO系统框图.png)
+![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/系统框架_CN.png)
 
 ![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/市场.gif)
 
@@ -88,7 +88,8 @@
 
 - 融合视觉、IMU、轮速计和 GPS完成复杂城市场景下的车辆位姿估计任务，以解决地形变换和光照强度快速变化对VIWO 造成的影响。
 - 在 KAIST Complex Urban Dataset 数据集表现出较好的鲁棒性和精度。
-- ![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/VIWO.gif)
+
+![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/VIWO.gif)
 
 ------
 
