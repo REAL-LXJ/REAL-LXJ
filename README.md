@@ -28,7 +28,7 @@
 
 | 《Structural Lines aided Monocular Visual-Inertial-Wheel Odometry with Online IMU-Wheel Extrinsic Optimization on S2 Manifold》 |
 | :----------------------------------------------------------- |
-| **TIV** **二作一审** **ABB**，针对复杂城市场景车辆位姿估计任务的鲁棒性问题，采用结构线辅助VIWO，并在S2流形上进行imu-wheel外参在线优化的方法，有效解决了城市场景地形变化和光照强度快速变化对VIWO造成的影响，在KAIST Complex Urban Dataset 数据集和现实场景表现出较好的鲁棒性和精度。 |
+| **IEEE Transactions on Intelligent Vehicles** **二作已接收，**针对复杂城市场景车辆位姿估计任务的鲁棒性问题，采用结构线辅助 VIWO，并在 S2 流形上进行 imu-wheel 外参在线优化的方法，有效解决了城市场景地形变化和光照强度快速变化对 VIWO 造成的影响，在 KAIST Complex Urban Dataset 数据集和现实场景表现出较好的鲁棒性和精度。 |
 
 ------
 
@@ -36,7 +36,7 @@
 
 ------
 
-### **OPPO研究院光子Lab—定位算法实习生—室内结构场景视觉位姿估计** 
+### **OPPO研究院光子Lab—计算机视觉算法实习生—室内结构场景视觉位姿估计** 
 
 - 利用室内结构环境信息和消费级相机D435i实现基于结构点线的RGBD惯性里程计SPLVDIO，并通过对算法模块进行优化，使其能够以纯视觉里程计PLVDO部署在四足机器人载体的NX平台上实时运行（蓝色部分为去掉的模块）。
 - 室内挑战性场景鲁棒性提高且 APE 定位误差减少 **40%**，相同约束下后端 BA 提速 **68%**。
@@ -50,7 +50,7 @@
 
 ### OPPO研究院光子Lab—IMU实时滤波
 
-- 基于**iir**实现**IMU**实时滤波算法，能够过滤IMU原始数据特定频率的噪声。
+- 基于**iir1**实现**IMU**实时滤波算法，能够过滤IMU原始数据特定频率的噪声。
 
 
 ![image](https://github.com/REAL-LXJ/REAL-LXJ/blob/main/picture/四足机器人imu分析.png)
