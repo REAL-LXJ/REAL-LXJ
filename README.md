@@ -28,7 +28,7 @@
 
 | 《Structural Lines aided Monocular Visual-Inertial-Wheel Odometry with Online IMU-Wheel Extrinsic Optimization on S2 Manifold》 |
 | :----------------------------------------------------------- |
-| **IEEE Transactions on Intelligent Vehicles** **二作已接收，**针对复杂城市场景车辆位姿估计任务的鲁棒性问题，采用结构线辅助 VIWO，并在 S2 流形上进行 imu-wheel 外参在线优化的方法，有效解决了城市场景地形变化和光照强度快速变化对 VIWO 造成的影响，在 KAIST Complex Urban Dataset 数据集和现实场景表现出较好的鲁棒性和精度。 |
+| **IEEE Transactions on Intelligent Vehicles 二作已接收**，针对复杂城市场景车辆位姿估计任务的鲁棒性问题，采用结构线辅助 VIWO，并在 S2 流形上进行 imu-wheel 外参在线优化的方法，有效解决了城市场景地形变化和光照强度快速变化对 VIWO 造成的影响，在 KAIST Complex Urban Dataset 数据集和现实场景表现出较好的鲁棒性和精度。 |
 
 ------
 
